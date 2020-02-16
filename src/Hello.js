@@ -4,7 +4,7 @@ import "./Hello.css";
 function Delight(){
     return (
         <div className="mainContainer">
-            <h1>Hello My Name is Delight and I am a new Pro Programmer</h1>
+            <h1 className="MainTitle">Hello My Name is Delight and I am a new Pro Programmer</h1>
         </div>    
     );
 }
