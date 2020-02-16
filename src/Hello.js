@@ -7,3 +7,5 @@ function Delight(){
         </div>    
     )
 }
+
+export default Delight;
